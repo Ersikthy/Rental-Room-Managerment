@@ -53,7 +53,7 @@ com.ersikthy.rentalroom
 
 ---
 
-##Usage Guide
+## Usage Guide
 
 1. **Register / Login**: Sign up an Admin account and log in.
 2. **Main Menu Options**:
@@ -65,6 +65,6 @@ com.ersikthy.rentalroom
 
 ---
 
-##Dependencies
+## Dependencies
 
 - **Google Gson** (`2.14.0`): JSON Serialization / Deserialization.
