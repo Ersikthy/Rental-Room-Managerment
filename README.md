@@ -4,7 +4,7 @@ A simple and lightweight Java CLI console application for managing rental rooms,
 
 ---
 
-##Key Features
+## Key Features
 
 - **Authentication**: Admin registration and login system.
 - **Room Management (CRUD)**: Create, view details, edit fields dynamically using Reflection, and delete rooms.
@@ -16,7 +16,7 @@ A simple and lightweight Java CLI console application for managing rental rooms,
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```text
 com.ersikthy.rentalroom
@@ -35,7 +35,7 @@ com.ersikthy.rentalroom
 
 ---
 
-##Getting Started
+## Getting Started
 
 ### Prerequisites
 
