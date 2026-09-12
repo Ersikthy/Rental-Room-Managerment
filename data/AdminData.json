@@ -1,0 +1,17 @@
+[
+  {
+    "id": "e3b0c442-98fc-11ee-b9d1-0242ac120002",
+    "admin_name": "testAdmin",
+    "password": "123456789@@"
+  },
+  {
+    "id": "e3271c00-847f-440c-b33a-065b3e2cc50d",
+    "admin_name": "thanh",
+    "password": "123456789"
+  },
+  {
+    "id": "240ec040-2d89-44ab-8c1c-119a021bfb34",
+    "admin_name": "thanh112",
+    "password": "thanh112"
+  }
+]

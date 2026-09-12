@@ -1,0 +1,138 @@
+[
+  {
+    "id": "a8f3c21d-9e01-41b2-b12a-33458e0a1290",
+    "name": "Aura",
+    "max_tenant": 2,
+    "area": 22.5,
+    "status": "Available",
+    "room_type": "Tier 1",
+    "pricing": 2500000,
+    "utility_rates": {
+      "Electricity": 3500,
+      "Water": 60000
+    },
+    "description": "Standard self-contained room with basic furniture and a bright window.",
+    "address": "123 Le Van Sy Street, Ward 13, District 3, HCMC",
+    "deposit": 2500000,
+    "in_room_tenant": []
+  },
+  {
+    "id": "b90e1f42-7a83-49d6-84bc-219d3f5e6a88",
+    "name": "Solace",
+    "max_tenant": 4,
+    "area": 35.0,
+    "status": "Full",
+    "room_type": "Tier 2",
+    "pricing": 4200000,
+    "utility_rates": {
+      "Electricity": 3500,
+      "Water": 60000
+    },
+    "description": "1-bedroom apartment with a spacious balcony and pre-installed air conditioner.",
+    "address": "123 Le Van Sy Street, Ward 13, District 3, HCMC",
+    "deposit": 4200000,
+    "in_room_tenant": []
+  },
+  {
+    "id": "c7a2e5d8-4b10-4f99-88c3-10e8d7f6c5b4",
+    "name": "Zephyr",
+    "max_tenant": 1,
+    "area": 16.0,
+    "status": "Available",
+    "room_type": "Tier 1",
+    "pricing": 1800000,
+    "utility_rates": {
+      "Electricity": 4000,
+      "Water": 50000
+    },
+    "description": "Compact single studio room, ideal for 1 person with 24/7 access.",
+    "address": "456 Nguyen Trai Street, Ward 2, District 5, HCMC",
+    "deposit": 1800000,
+    "in_room_tenant": []
+  },
+  {
+    "id": "d1b4a3c2-8f90-4e76-b5d1-9f2e3d4c5b6a",
+    "name": "Nova",
+    "max_tenant": 3,
+    "area": 28.0,
+    "status": "Available",
+    "room_type": "Tier 2",
+    "pricing": 3200000,
+    "utility_rates": {
+      "Electricity": 3500,
+      "Water": 60000
+    },
+    "description": "Mezzanine room with private kitchen area and shared washing machine.",
+    "address": "456 Nguyen Trai Street, Ward 2, District 5, HCMC",
+    "deposit": 3200000,
+    "in_room_tenant": []
+  },
+  {
+    "id": "e5c6d7e8-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
+    "name": "Vortex",
+    "max_tenant": 2,
+    "area": 24.0,
+    "status": "Maintenance",
+    "room_type": "Tier 1",
+    "pricing": 2300000,
+    "utility_rates": {
+      "Electricity": 3500,
+      "Water": 60000
+    },
+    "description": "Currently under maintenance for plumbing repair and repainting.",
+    "address": "789 Dien Bien Phu Street, Ward 15, Binh Thanh District, HCMC",
+    "deposit": 2300000,
+    "in_room_tenant": []
+  },
+  {
+    "id": "f8e9d0c1-b2a3-4f5e-6d7c-8b9a0f1e2d3c",
+    "name": "Apex",
+    "max_tenant": 4,
+    "area": 50.0,
+    "status": "Available",
+    "room_type": "Tier 3",
+    "pricing": 6500000,
+    "utility_rates": {
+      "Electricity": 3800,
+      "Water": 70000
+    },
+    "description": "Rooftop penthouse with panoramic city view and full luxury amenities.",
+    "address": "789 Dien Bien Phu Street, Ward 15, Binh Thanh District, HCMC",
+    "deposit": 10000000,
+    "in_room_tenant": []
+  },
+  {
+    "id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "name": "Orion",
+    "max_tenant": 2,
+    "area": 20.0,
+    "status": "Full",
+    "room_type": "Tier 1",
+    "pricing": 2800000,
+    "utility_rates": {
+      "Electricity": 3500,
+      "Water": 60000
+    },
+    "description": "Cool 3rd-floor room in a safe neighborhood with 24/7 CCTV surveillance.",
+    "address": "789 Dien Bien Phu Street, Ward 15, Binh Thanh District, HCMC",
+    "deposit": 2800000,
+    "in_room_tenant": []
+  },
+  {
+    "id": "1f2e3d4c-5b6a-7f8e-9d0c-1b2a3c4d5e6f",
+    "name": "Zenith",
+    "max_tenant": 2,
+    "area": 30.0,
+    "status": "Available",
+    "room_type": "Tier 3",
+    "pricing": 4800000,
+    "utility_rates": {
+      "Electricity": 3800,
+      "Water": 70000
+    },
+    "description": "Modern duplex serviced apartment equipped with sofa and queen-size bed.",
+    "address": "12 Cach Mang Thang 8 Street, Ward 6, Tan Binh District, HCMC",
+    "deposit": 5000000,
+    "in_room_tenant": []
+  }
+]
