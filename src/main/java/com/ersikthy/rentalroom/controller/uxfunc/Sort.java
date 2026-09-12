@@ -32,7 +32,7 @@ public class Sort {
 
 
      public static void sortRoom(){
-          Menu sRoom = new Menu("Sort Room");
+          Menu sRoom = new Menu("Sort Mode");
 
           sRoom.addOption("Sort by name (A-Z)", () -> {
                sortMode = SortMode.NAMEa_z.getLabel();

@@ -13,7 +13,7 @@ public class MainNav {
         Menu mainMenu = new Menu("RRM Menu");
         mainMenu.addOption("RentalRoom List", Nav::nav);
         mainMenu.addOption("Tenant List", com.ersikthy.rentalroom.controller.tenant.Nav::displayListAndOption);
-        mainMenu.addOption("Setting", () -> sysLog("Opening..."));
+        mainMenu.addOption("Setting", () -> sysLog("Coming soon..."));
 
         mainMenu.displayMenu();
     }

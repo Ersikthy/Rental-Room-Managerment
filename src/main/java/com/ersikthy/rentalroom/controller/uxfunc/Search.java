@@ -13,7 +13,7 @@ public class Search {
      private Search() {}
      public static void searchRoom() {
 
-          Menu fRoom = new Menu("Search Room");
+          Menu fRoom = new Menu("Search Mode");
 
           fRoom.addOption("Search empty room", () -> {
                displayRoomList.clear();
