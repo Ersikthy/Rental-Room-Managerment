@@ -65,6 +65,6 @@ com.ersikthy.rentalroom
 
 ---
 
-## ⚙️ Dependencies
+##Dependencies
 
 - **Google Gson** (`2.14.0`): JSON Serialization / Deserialization.
