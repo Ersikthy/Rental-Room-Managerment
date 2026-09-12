@@ -1,22 +1,22 @@
-# Rental Room Management (RRM) 🏠
+# Rental Room Management (RRM)
 
 A simple and lightweight Java CLI console application for managing rental rooms, tenants, and bookings with JSON data persistence.
 
 ---
 
-## 🌟 Key Features
+##Key Features
 
-- **🔑 Authentication**: Admin registration and login system.
-- **🏠 Room Management (CRUD)**: Create, view details, edit fields dynamically using Reflection, and delete rooms.
-- **👥 Tenant Management (CRUD)**: Manage tenant profiles (Name, Age, Gender, Phone).
-- **🚪 Check-in & Check-out**: Assign tenants to rooms with capacity check and automatic status updates (`Available` ↔ `Full`).
-- **🔍 Search & Filter**: Find available rooms or budget rooms (under 2,500,000 VND).
-- **📊 Sort Rooms**: Sort by Name (A-Z / Z-A), Price (Low-High / High-Low), or Area.
-- **💾 JSON Persistence**: Automatic data saving and loading using Google Gson (`data/RoomsData.json`, `data/TenantsData.json`, `data/AdminData.json`).
+- **Authentication**: Admin registration and login system.
+- **Room Management (CRUD)**: Create, view details, edit fields dynamically using Reflection, and delete rooms.
+- **Tenant Management (CRUD)**: Manage tenant profiles (Name, Age, Gender, Phone).
+- **Check-in & Check-out**: Assign tenants to rooms with capacity check and automatic status updates (`Available` ↔ `Full`).
+- **Search & Filter**: Find available rooms or budget rooms (under 2,500,000 VND).
+- **Sort Rooms**: Sort by Name (A-Z / Z-A), Price (Low-High / High-Low), or Area.
+- **JSON Persistence**: Automatic data saving and loading using Google Gson (`data/RoomsData.json`, `data/TenantsData.json`, `data/AdminData.json`).
 
 ---
 
-## 🛠️ Project Structure
+##Project Structure
 
 ```text
 com.ersikthy.rentalroom
@@ -35,7 +35,7 @@ com.ersikthy.rentalroom
 
 ---
 
-## 🚀 Getting Started
+##Getting Started
 
 ### Prerequisites
 
@@ -53,7 +53,7 @@ com.ersikthy.rentalroom
 
 ---
 
-## 📖 Usage Guide
+##Usage Guide
 
 1. **Register / Login**: Sign up an Admin account and log in.
 2. **Main Menu Options**:
